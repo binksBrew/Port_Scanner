@@ -13,7 +13,7 @@ A simple Python-based port scanner that checks for open ports on a target machin
 To use this port scanner, you need Python 3 installed on your system. Clone this repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/binksBrew/port_scanner.git
+git clone https://github.com/binksBrew/Port_Scanner.git
 
 python3 scanner.py <ip>
 (Replace <ip> with the actual IP address you want to scan.)
